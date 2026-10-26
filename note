@@ -1,1 +1,8 @@
+Il mio primo progetto
+Obbiettivo: riuscire a prevedere il prezzo medio di una casa in una zona
+Osservazione: prezzo medio di un'area
+utente: idealmente lo capirò quando l'avrò finito
+metrica principale: MAE, metriche secondarie: RMSE, R^2
+baseline: 25%
+cosa non farò: a malapena sto capendo cosa fare
 
